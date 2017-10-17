@@ -1,6 +1,6 @@
 # 2017-pyGrn-introdatascience
 
-Pandas introduction talk I gave at [PyGrn Meetup #3 2017](https://www.meetup.com/PythonGirona/events/243705588/).
+Data science introduction talk I gave at [PyGrn Meetup #3 2017](https://www.meetup.com/PythonGirona/events/243705588/).
 
 The slides are in catalan language
 
